@@ -1,2 +1,0 @@
-readlen	fragLengthMedian	fragLengthMean	fragLengthSd	numObservedFragments	numMappedFragments	numHits	kmer
-100	201	201.157	77.7927	124299760	57399297	297524985	31
